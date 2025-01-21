@@ -1,3 +1,3 @@
 # COMS4771
 
-## Repo for materials and assignments from ML.
+## Repo for ML
